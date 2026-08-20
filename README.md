@@ -12,4 +12,6 @@ pnpm dev:api          # http://localhost:3000
 pnpm dev:web          # http://localhost:5173
 ``` 
 
-Os mesmos comandos valem no Windows, no macOS e no Linux.
+Os mesmos comandos valem no Windows, no macOS e no Linux. 
+
+# Seção para formação da futura "Equipe"
